@@ -221,7 +221,7 @@ function dropNumbers(){
   //creates all of the hour balls at ta random location above the canvas
   for (var h=1; h<=12; h++){
     tempX = random(50, 650);
-    tempY = random(-300, -20);
+    tempY = random(-500, -20);
     if (tempHour==h){
       tempSize = radius + (growth*2.4);
     }  else {
@@ -232,7 +232,7 @@ function dropNumbers(){
   //creates all of the minute balls at ta random location above the canvas
   for (var m=0; m<=59; m++){
     tempX = random(50, 650);
-    tempY = random(-400, -20);
+    tempY = random(-500, -20);
     if (minute()==m){
       tempSize = radius + (growth*1.6);
     }  else {
