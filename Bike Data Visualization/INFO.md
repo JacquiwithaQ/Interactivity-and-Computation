@@ -1,8 +1,7 @@
 "Bike Data Visualization" analyzes data from Healthy Ride PGH about bike rentals in Pittsburgh. The data is in the form of .csv files in the 2016-Q3 folder, and copies of it are in each of the other folders as well. 
 
 Export2darray.pde is a Processing file that generates a myMatrix.txt file (included) containining a matrix counting the number of rides from each stop to each other stop. 
-
-Export2darraylimited.pde generates a similar myMatrix.txt file (included) containing a smaller matrix, that only maps the rides between the 10 busiest stops and a generic "other." These matrices were then copied into index.html, which included a portion of script written in d3 (I adapted this from the D3 blocks site). 
+Export2darraylimited.pde generates a similar myMatrix.txt file (included) containing a smaller matrix, that only maps the rides between the 10 busiest stops and a generic "other." These matrices were then copied into index.html, which included a portion of script written in D3 (I adapted this from the D3 blocks site). 
 
 index.html displays a chord diagram that illustrates all of the rides between stops.
 
