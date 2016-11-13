@@ -1,7 +1,7 @@
 # 60212
 Includes work done for the class 60-212: Interactivity and Computation
 
-Line_Intersections (in both p5.js and Processing)- 9/9/16 - Generates random line segments of a constant length, and draws a circle at every point of intersection.
+Line_Intersections (in both p5.js and Processing)- 9/9/16 - Generates random line segments of a constant length, and draws a circle at every point of intersection. Lines are regenerated every time the user clicks.
 
 Clock (p5.js)- 9/16/16 - A digital clock with a rudimentary physics system. There are 132 "marbles", each with a number on it. The marbles grow and shrink based on what time it is, and the three largest marbles display the hours, minutes, and seconds.
 
