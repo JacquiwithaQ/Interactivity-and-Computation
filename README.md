@@ -1,10 +1,6 @@
 # 60212
 Includes work done for the class 60-212: Interactivity and Computation
 
-My favorites: Clock, Song_Book, Pixel_Dancer and/or Motion_Tracer
-
-Descriptions of all projects below:
-
 Line_Intersections (in both p5.js and Processing)- 9/9/16 - Generates random line segments of a constant length, and draws a circle at every point of intersection. Lines are regenerated every time the user clicks.
 
 Clock (p5.js)- 9/16/16 - A digital clock with a rudimentary physics system. There are 132 "marbles", each with a number on it. The marbles grow and shrink based on what time it is, and the three largest marbles display the hours, minutes, and seconds. Every time the user clicks, a new set of marbles with a different color scheme is dropped from the "sky." The clock can be seen running here: http://cmuems.com/2016/60212/jaqaur/09/15/jaqaur-clock/
